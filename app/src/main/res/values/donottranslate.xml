@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- City Services phone number Burleson animal shelter [CHAR LIMIT=20] -->
+    <string name="number_animal">817 426 9283</string>
+
+    <!-- City Services phone number Burleson Police Department [CHAR LIMIT=20] -->
+    <string name="number_police">817 436 9910</string>
+
+    <!-- City Services phone number Burleson City facilities [CHAR LIMIT=20] -->
+    <string name="number_facilities">817 426 9600</string>
+
+    <!-- City Services phone number Burleson buliding permits [CHAR LIMIT=20] -->
+    <string name="number_building">817 426 9632</string>
+
+    <!-- City Services phone number Burleson Library [CHAR LIMIT=20] -->
+    <string name="number_library">817 426 9210</string>
+
+    <!-- Burleson hotels phone number Best Western [CHAR LIMIT=20] -->
+    <string name="number_best_western">817 744 7747</string>
+
+    <!-- Burleson hotels phone number La Quinta Inn [CHAR LIMIT=20] -->
+    <string name="number_la_quinta">817 447 6565</string>
+
+    <!-- Burleson hotels phone number Holiday Inn[CHAR LIMIT=20] -->
+    <string name="number_holiday">817 426 0396</string>
+
+    <!-- Burleson hotels phone number Hampton Inn [CHAR LIMIT=20] -->
+    <string name="number_hampton">817 295 2727</string>
+
+    <!-- Burleson hotels phone number Days Inn [CHAR LIMIT=20] -->
+    <string name="number_days">817 447 1111</string>
+
+    <!-- Burleson Parks phone number BricK [CHAR LIMIT=20] -->
+    <string name="number_brick">817 426 9104</string>
+
+    <!-- Burleson Parks phone number Bartlett Park [CHAR LIMIT=20] -->
+    <string name="number_bartlett">817 426 9104</string>
+
+    <!-- Burleson Parks phone number Bailey Lake[CHAR LIMIT=20] -->
+    <string name="number_bailey">817 426 9291</string>
+
+    <!-- Burleson Parks phone number Centennial Park [CHAR LIMIT=20] -->
+    <string name="number_centennial">817 426 9291</string>
+
+    <!-- Burleson Parks phone number Heberle Park [CHAR LIMIT=20] -->
+    <string name="number_heberle">817 426 9291</string>
+
+    <!-- Burleson Parks phone number Warren Park [CHAR LIMIT=20] -->
+    <string name="number_warren">817 426 9104</string>
+
+    <!-- Burleson Restaurants phone number Grumps Hamburgers [CHAR LIMIT=20] -->
+    <string name="number_grumps">817 447 8800</string>
+
+    <!-- Burleson Restaurants phone number Frescos Mexican[CHAR LIMIT=20] -->
+    <string name="number_frescos">817 426 9990</string>
+
+    <!-- Burleson Restaurants phone number Babes Chicken [CHAR LIMIT=20] -->
+    <string name="number_babes">817 447 3400</string>
+
+    <!-- Burleson Restaurants phone number Texas Brewhouse [CHAR LIMIT=20] -->
+    <string name="number_brewhouse">817 447 2337</string>
+
+    <!-- Burleson Restaurants phone number Our Place [CHAR LIMIT=20] -->
+    <string name="number_ourplace">817 426 9009</string>
+
+</resources>
